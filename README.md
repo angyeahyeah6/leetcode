@@ -1,2 +1,5 @@
 # leetcode
-LeetCode Problems' Solutions
+# LeetCode Problems' Solutions
+
+| # | Title | Solution | Difficulty | Algorithm Used |
+| -------- | -------- | -------- | -------- | --------|

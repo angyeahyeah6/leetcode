@@ -3,3 +3,4 @@
 
 | # | Title | Solution | Difficulty | Algorithm Used |
 | -------- | -------- | -------- | -------- | --------|
+| 341 | Flatten Nested List Iterator | python | medium | |
